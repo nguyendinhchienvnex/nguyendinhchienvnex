@@ -23,12 +23,12 @@
 
 ### <img src="https://img.shields.io/badge/About_Me-0077B5?style=flat-square&logo=about.me&logoColor=white" alt="About Me">
 
-Hi there! My name is **Nguyễn Đình Chiến**. I'm a passionate **Software Developer** born in **2003** (Year of the Horse). I love building robust applications, exploring modern backend architectures, and writing clean, efficient code.
+Hi there! My name is **Nguyễn Đình Chiến**. I'm a passionate **Software Developer**. I love building robust applications, exploring modern backend architectures, and writing clean, efficient code.
 
 * <img src="https://img.shields.io/badge/Pronouns-0077B5?style=flat-square&logo=appveyor&logoColor=white" alt="Pronouns" /> **Pronouns:** He / Him
 * <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Working on" /> **I'm currently working on:** Personal projects & building scalable backend systems.
 * <img src="https://img.shields.io/badge/Learning-02569B?style=flat-square&logo=gitbook&logoColor=white" alt="Learning" /> **I'm currently learning:** Advanced backend patterns, system architecture, and cloud deployment.
-* <img src="https://img.shields.io/badge/Ask_Me_About-3776AB?style=flat-square&logo=python&logoColor=white" alt="Ask me about" /> **Ask me about:** Python, Java, Django, OOP, and backend development.
+* <img src="https://img.shields.io/badge/Ask_Me_About-3776AB?style=flat-square&logo=python&logoColor=white" alt="Ask me about" /> **Ask me about:** Scalable Architecture, OOP Principles, Full-Stack Logic, and High-Performance Backends.
 * <img src="https://img.shields.io/badge/Fun_Fact-FF7139?style=flat-square&logo=coffeescript&logoColor=white" alt="Fun Fact" /> **Fun fact:** I love solving problems, optimizing logic, and debugging code late at night!
 
 ---
