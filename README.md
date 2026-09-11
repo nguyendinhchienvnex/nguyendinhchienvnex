@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5e4b2b96-2c81-4b5e-87b7-2c5acf342517" width="600" alt="Github Readme Banner">
+  <img src="https://github.com/nguyendinhchienvnex/nguyendinhchienvnex/blob/main/Github_Readme.gif" width="600" alt="Github Readme Banner">
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Animated workspace setup">
